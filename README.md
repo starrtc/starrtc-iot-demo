@@ -3,6 +3,8 @@
 
 海思arm板采集mac电脑的hdmi信号进行实时录屏直播：
 
+下载其它[客户端示例程序](https://docs.starrtc.com/en/download/)，进入互动直播，即可观看直播。
+
 ![arm_hdmi](https://raw.githubusercontent.com/starrtc/starrtc-android-demo/master/assets/arm_hdmi.jpg)
 
 ![arm_hdmi_screen](https://raw.githubusercontent.com/starrtc/starrtc-android-demo/master/assets/arm_hdmi_screen.jpg)
